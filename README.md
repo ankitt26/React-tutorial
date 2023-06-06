@@ -39,8 +39,6 @@ HTML, CSS, JAVASCRIPT & React.js
 
 GitHub & Visual Studio Code
 
-React
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
