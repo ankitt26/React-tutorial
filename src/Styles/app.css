@@ -57,3 +57,8 @@ body {
   margin-top: 5px;
   display: block;
 }
+.input-submit svg {
+  color: #5e5e5e;
+  font-size: 20px;
+  margin-top: 2px;
+}
